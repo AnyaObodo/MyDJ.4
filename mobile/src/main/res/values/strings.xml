@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My DJ 4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">My_DJ</string>
+    <string name="My_DJ" />
+</resources>
